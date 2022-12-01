@@ -15,20 +15,26 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-- First, ensure that you have the latest pip; older versions may have trouble with some dependencies:
+- First, ensure that you have the latest **pip**; older versions may have trouble with some dependencies:
 
 ```sh
 pip3 install --upgrade pip
 ```
 
-- Install Numpy using:
+- Install **Numpy** using:
 
 ```sh
 pip3 install numpy
 ```
 
-- Install Jupyter Notebook using:
+- Install **Jupyter Notebook** using:
 
 ```sh
 pip3 install jupyter
+```
+
+- The Jupyter Notebook App can be launched by typing in a terminal (*cmd* on *Windows*):
+
+```sh
+jupyter notebook
 ```
