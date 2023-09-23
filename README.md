@@ -34,7 +34,7 @@ pip3 install numpy
 pip3 install jupyter
 ```
 
-- The Jupyter Notebook App can be launched by typing in a terminal (*cmd* on *Windows*):
+- The Jupyter Notebook App can be launched by typing in a terminal (_cmd_ on _Windows_):
 
 ```sh
 jupyter notebook
